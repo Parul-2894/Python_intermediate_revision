@@ -1,10 +1,31 @@
-08/04/2024 15:32:35 - root - DEBUG - This is debug message  
-08/04/2024 15:32:35 - root - INFO - This is an info message 
-08/04/2024 15:32:35 - root - WARNING - This is a warning message 
-08/04/2024 15:32:35 - root - ERROR - This is an error message 
-08/04/2024 15:32:35 - root - CRITICAL - This is a critical message 
-08/04/2024 15:37:19 - root - DEBUG - This is debug message  
-08/04/2024 15:37:19 - root - INFO - This is an info message 
-08/04/2024 15:37:19 - root - WARNING - This is a warning message 
-08/04/2024 15:37:19 - root - ERROR - This is an error message 
-08/04/2024 15:37:19 - root - CRITICAL - This is a critical message 
+08/05/2024 20:52:00 - __main__ - DEBUG - Hello 
+08/05/2024 20:52:49 - __main__ - ERROR - list index out of range 
+Traceback (most recent call last):
+  File "/Users/parultiwari/Documents/Coding/python/Python-Intermediate_revision/Python_intermediate_revision/Logging/logging_stacktraces.py", line 14, in <module>
+    b = a[4] #index out of range
+        ~^^^
+IndexError: list index out of range
+08/05/2024 20:55:27 - __main__ - ERROR - list index out of range 
+Traceback (most recent call last):
+  File "/Users/parultiwari/Documents/Coding/python/Python-Intermediate_revision/Python_intermediate_revision/Logging/logging_stacktraces.py", line 15, in <module>
+    b = a[4] #index out of range
+        ~^^^
+IndexError: list index out of range
+08/05/2024 20:55:27 - __main__ - ERROR - This is the error Traceback (most recent call last):
+  File "/Users/parultiwari/Documents/Coding/python/Python-Intermediate_revision/Python_intermediate_revision/Logging/logging_stacktraces.py", line 21, in <module>
+    b = a[4] #index out of range
+        ~^^^
+IndexError: list index out of range
+ 
+08/05/2024 21:11:54 - __main__ - ERROR - list index out of range 
+Traceback (most recent call last):
+  File "/Users/parultiwari/Documents/Coding/python/Python-Intermediate_revision/Python_intermediate_revision/Logging/logging_stacktraces.py", line 15, in <module>
+    b = a[4] #index out of range
+        ~^^^
+IndexError: list index out of range
+08/05/2024 21:11:54 - __main__ - ERROR - This is the error Traceback (most recent call last):
+  File "/Users/parultiwari/Documents/Coding/python/Python-Intermediate_revision/Python_intermediate_revision/Logging/logging_stacktraces.py", line 21, in <module>
+    b = a[4] #index out of range
+        ~^^^
+IndexError: list index out of range
+ 
